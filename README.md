@@ -1,4 +1,0 @@
-myproject
-=========
-
-test project
