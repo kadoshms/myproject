@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cccfea9a-af42-45e4-b6ec-058732e27efb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Form/EnquiryType.php" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Form/EnquiryType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contactEmail.txt.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -39,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parameters.yml.dist" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <file leaf-file-name="parameters.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="33" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+            <state line="11" column="31" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.2458655" vertical-offset="670" max-vertical-offset="1596">
+            <state line="65" column="31" selection-start="2097" selection-end="2097" vertical-scroll-proportion="-7.7090907" vertical-offset="716" max-vertical-offset="1596">
               <folding>
                 <element signature="e#130#187#0" expanded="true" />
               </folding>
@@ -70,14 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html.twig" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="551">
-              <folding>
-                <marker date="1403967152478" expanded="true" signature="120:167" placeholder="..." />
-                <marker date="1403967152478" expanded="true" signature="320:584" placeholder="..." />
-              </folding>
+            <state line="15" column="10" selection-start="480" selection-end="480" vertical-scroll-proportion="0.31422272" vertical-offset="0" max-vertical-offset="907">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,8 +110,10 @@
         <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/Enquiry.php" />
         <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Form/EnquiryType.php" />
-        <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig" />
+        <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contactEmail.txt.twig" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" />
+        <option value="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig" />
       </list>
     </option>
   </component>
@@ -728,10 +727,7 @@
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="29" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="551">
-          <folding>
-            <marker date="1403967152478" expanded="true" signature="120:167" placeholder="..." />
-            <marker date="1403967152478" expanded="true" signature="320:584" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -805,10 +801,7 @@
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="36" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="551">
-          <folding>
-            <marker date="1403967152478" expanded="true" signature="120:167" placeholder="..." />
-            <marker date="1403967152478" expanded="true" signature="320:584" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -932,13 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="26" selection-start="448" selection-end="448" vertical-scroll-proportion="0.32513368" vertical-offset="0" max-vertical-offset="935">
@@ -967,16 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="551">
-          <folding>
-            <marker date="1403967152478" expanded="true" signature="120:167" placeholder="..." />
-            <marker date="1403967152478" expanded="true" signature="320:584" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="491" column="0" selection-start="14855" selection-end="14855" vertical-scroll-proportion="0.47091722" vertical-offset="8604" max-vertical-offset="21508">
@@ -1002,12 +978,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contactEmail.txt.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="132" selection-end="132" vertical-scroll-proportion="0.062844545" vertical-offset="0" max-vertical-offset="907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.2458655" vertical-offset="670" max-vertical-offset="1596">
+        <state line="65" column="31" selection-start="2097" selection-end="2097" vertical-scroll-proportion="-7.7090907" vertical-offset="716" max-vertical-offset="1596">
           <folding>
             <element signature="e#130#187#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="480" selection-end="480" vertical-scroll-proportion="0.31422272" vertical-offset="0" max-vertical-offset="907">
+          <folding />
         </state>
       </provider>
     </entry>
