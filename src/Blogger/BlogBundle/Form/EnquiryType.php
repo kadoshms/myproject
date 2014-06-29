@@ -13,6 +13,7 @@ class EnquiryType extends AbstractType
         $builder->add('email', 'email');
         $builder->add('subject');
         $builder->add('body', 'textarea');
+
     }
 
     public function getName()
